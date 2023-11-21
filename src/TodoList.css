@@ -1,0 +1,4 @@
+/* src/TodoList.css */
+.completed {
+  text-decoration: line-through;
+}
